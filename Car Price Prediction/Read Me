@@ -1,0 +1,4 @@
+Car is the main jupyter notebook used for prediction
+Carwale_scrapping and Cardekho_scrapping are the main scrapping files for resp websites
+Rest jupy was used to distribute load for scrapping
+All data from every jupy was then concated into one dataset
